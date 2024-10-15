@@ -43,6 +43,5 @@
       "cache": false,
       "persistent": true
     }
-  },
-  "packageManager": "pnpm@9.12.1" 
+  }
 }
